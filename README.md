@@ -1,0 +1,2 @@
+# Python100knock
+Pythonデータ分析100本ノックの学習記録用
